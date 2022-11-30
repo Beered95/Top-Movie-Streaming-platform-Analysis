@@ -1,5 +1,7 @@
 
 ![Logo](https://cdn.technadu.com/wp-content/uploads/2020/04/Netflix-Amazon-Prime-Hulu-Disney-Plus-Logos-696x392.png) 
+
+
 Image Credit : @technadu
 # **Data Analysis on Movies from Top streaming platforms**
 
