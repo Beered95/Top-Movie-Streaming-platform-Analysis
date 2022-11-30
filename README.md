@@ -7,7 +7,7 @@ Image Credit : @technadu
 
 
 I carried out an analysis on Movies from the dataset that i obtained from kaggle(https://www.kaggle.com/)
-, in my analysis i got to see top movies ranked based on either IMDb ratings or Rotten tomatoes from their respective streaming platforms.
+, in my analysis i got to see top movies ranked based on IMDb ratings from their respective streaming platforms.
 
 **Tasks Carried**
 1. Data Cleaning
